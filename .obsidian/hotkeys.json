@@ -14,12 +14,6 @@
         "Mod"
       ],
       "key": "G"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
     }
   ],
   "obsidian-plugin-groups:plugin-groups-enable-pgsincronizar": [
@@ -31,9 +25,9 @@
     },
     {
       "modifiers": [
-        "Mod"
+        "Shift"
       ],
-      "key": "-"
+      "key": "="
     }
   ]
 }
