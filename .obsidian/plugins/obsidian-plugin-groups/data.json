@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgsincronizar",
+      "name": "Sincronizar",
+      "plugins": [
+        {
+          "id": "obsidian-git",
+          "name": "Obsidian Git"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": true
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "Icon"
+}
