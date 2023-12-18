@@ -16,10 +16,7 @@ Eahhh
 ---
  Ya nunca más necesito powerpoint o canva jajaja
 
-![[Recording 20231218021721.webm]]
 
-
-
-   
+    
 
 
