@@ -1,0 +1,1 @@
+Una guía simple para usar git en obsidean
