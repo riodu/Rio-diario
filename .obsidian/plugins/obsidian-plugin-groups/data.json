@@ -17,9 +17,9 @@
     }
   ],
   "generateCommands": true,
-  "showNoticeOnGroupLoad": "none",
+  "showNoticeOnGroupLoad": "normal",
   "devLogs": false,
   "devices": [],
   "doLoadSynchronously": true,
-  "showStatusbarIcon": "Icon"
+  "showStatusbarIcon": "Text"
 }

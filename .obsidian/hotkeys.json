@@ -6,5 +6,34 @@
       ],
       "key": "I"
     }
+  ],
+  "graph:open": [],
+  "obsidian-plugin-groups:plugin-groups-disable-pgsincronizar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "obsidian-plugin-groups:plugin-groups-enable-pgsincronizar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
   ]
 }
