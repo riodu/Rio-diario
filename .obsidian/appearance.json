@@ -1,5 +1,6 @@
 {
-  "accentColor": "#ceb283",
-  "cssTheme": "Vicious",
-  "theme": "moonstone"
+  "accentColor": "#c69c53",
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

@@ -47,5 +47,9 @@ Este cambio debería, además de lo anterior, permitirme decir cuál el commit, 
 #### Para total libertad
 - obsidian-shellcommands
 
+---
+#### Para estilos y apariencia
+- style Settings
+
 
 
