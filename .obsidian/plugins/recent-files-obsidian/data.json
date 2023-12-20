@@ -15,10 +15,6 @@
     {
       "basename": "Registro Diario",
       "path": "Recursos/Plantillas/Registro Diario.md"
-    },
-    {
-      "basename": "2023-12-21 Ejemplo",
-      "path": "Registro/Calendario/2023-12-21 Ejemplo.md"
     }
   ],
   "omittedPaths": [
