@@ -1,3 +1,9 @@
+
+
+
 ```dataview
-TASK
+TABLE diario, semana
+FROM "Registro/Registro Diario"
 ```
+
+

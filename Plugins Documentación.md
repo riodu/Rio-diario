@@ -14,8 +14,9 @@
 - tag Wrangler
 
 ---
-#### Para Tablas
+#### Para Tablas y visualización de datos
 - Advanced Table
+- Dataview (Página para construir los comandos: [Link](https://s-blu.github.io/basic-dataview-query-builder/questions))
 
 ---
 #### Para Kanban
