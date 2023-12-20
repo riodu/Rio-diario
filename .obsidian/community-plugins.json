@@ -2,6 +2,7 @@
   "obsidian-plugin-groups",
   "obsidian-git",
   "recent-files-obsidian",
-  "obsidian-full-calendar",
-  "dataview"
+  "dataview",
+  "calendar",
+  "fantasy-calendar"
 ]
