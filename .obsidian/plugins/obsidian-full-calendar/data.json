@@ -2,8 +2,13 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "hsl(\n    129,\n    31.9%,\n    calc(46.7% + 10%)\n  )",
+      "color": "#6762b7",
       "directory": "Archivo"
+    },
+    {
+      "type": "local",
+      "color": "#9d0c0c",
+      "directory": "Recursos"
     }
   ],
   "defaultCalendar": 0,
