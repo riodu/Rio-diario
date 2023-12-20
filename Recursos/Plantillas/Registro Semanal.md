@@ -7,3 +7,5 @@ FROM "Registro/Registro Diario"
 ```
 
 
+
+
