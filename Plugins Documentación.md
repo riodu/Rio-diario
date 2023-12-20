@@ -33,7 +33,8 @@
 
 ---
 #### Para calendarios
-- calendar
+- calendar(vista rápida de calendario, notas diarias y semanales)
+- Full Calendar (Para eventos, tareas...)
 
 ---
 #### Para Periodicidad
