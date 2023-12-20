@@ -1,9 +1,9 @@
 {
   "calendarSources": [
     {
-      "type": "dailynote",
+      "type": "local",
       "color": "hsl(\n    129,\n    31.9%,\n    calc(46.7% + 10%)\n  )",
-      "heading": "/Registro/Diario"
+      "directory": "Archivo"
     }
   ],
   "defaultCalendar": 0,
