@@ -55,7 +55,8 @@
 - obsidian-shellcommands
 
 ---
-#### Para estilos y apariencia
+#### Para estilos y apariencia y temas
 - style Settings
+- Anaupunce (Tema) ([Guía](https://youtu.be/7-SOwxpZQNI))
 
 

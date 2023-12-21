@@ -1,5 +1,6 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow"
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar"
 }
