@@ -68,5 +68,13 @@
   "anp-custom-rainbow-colors@@rainbow-color-7-default": "rainbow-color-7-blue",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
-  "anuppuccin-theme-settings@@anp-print": true
+  "anuppuccin-theme-settings@@anp-print": true,
+  "anuppuccin-theme-settings@@anp-translucency-opacity": 0.15,
+  "anuppuccin-theme-settings@@anp-card-radius": 16,
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 5,
+  "anuppuccin-theme-settings@@anp-card-header-left-padding": 10,
+  "anuppuccin-theme-settings@@anp-border-radius": 16,
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true
 }
