@@ -5,12 +5,20 @@
       "path": "Plugins Documentación.md"
     },
     {
-      "basename": "Registro Diario",
-      "path": "3-Recursos/Plantillas/Registro Diario.md"
-    },
-    {
       "basename": "Antropología",
       "path": "Antropología.md"
+    },
+    {
+      "basename": "Segundo Cerebro",
+      "path": "Segundo Cerebro.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Registro Diario",
+      "path": "3-Recursos/Plantillas/Registro Diario.md"
     },
     {
       "basename": "Registro Semanal",
