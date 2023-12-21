@@ -1,8 +1,11 @@
 {
-  "accentColor": "#c69c53",
+  "accentColor": "#ab9a2b",
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "baseFontSize": 16,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "custom-rainbow-colors"
+  ]
 }
