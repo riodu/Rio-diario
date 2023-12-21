@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Registro Diario",
-      "path": "Recursos/Plantillas/Registro Diario.md"
-    },
-    {
       "basename": "Plugins Documentación",
       "path": "Plugins Documentación.md"
+    },
+    {
+      "basename": "Registro Diario",
+      "path": "3-Recursos/Plantillas/Registro Diario.md"
     },
     {
       "basename": "Antropología",
@@ -14,7 +14,7 @@
     },
     {
       "basename": "Registro Semanal",
-      "path": "Recursos/Plantillas/Registro Semanal.md"
+      "path": "3-Recursos/Plantillas/Registro Semanal.md"
     }
   ],
   "omittedPaths": [
