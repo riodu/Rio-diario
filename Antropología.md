@@ -10,8 +10,10 @@ Hola desde el pc, de nuevo
 - [ ]
 
 
-> [[test]] Test
+> [!test] Test
 > content
+
+
 
 
 
