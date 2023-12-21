@@ -5,12 +5,12 @@
       "path": "Recursos/Plantillas/Registro Diario.md"
     },
     {
-      "basename": "Antropología",
-      "path": "Antropología.md"
-    },
-    {
       "basename": "Plugins Documentación",
       "path": "Plugins Documentación.md"
+    },
+    {
+      "basename": "Antropología",
+      "path": "Antropología.md"
     },
     {
       "basename": "Registro Semanal",

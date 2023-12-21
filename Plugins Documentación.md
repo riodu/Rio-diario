@@ -9,9 +9,10 @@
 	Este cambio debería, además de lo anterior, permitirme decir cuál el commit, el mensaje de texto que quiero en el commit, se entiende? Claroo, solo necesito estar escribiendo más de un minuto para comprobarlo, y luego para por el mismo tiempo, un minuto. Listo.
 
 ---
-#### Para Etiquetas
+#### Para Etiquetas y propiedades
 
 - tag Wrangler
+- properties (core)
 
 ---
 #### Para Tablas y visualización de datos
