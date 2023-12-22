@@ -8,4 +8,6 @@ Eres ingrata y por eso te escondes. La única forma de encontrarte es escapárse
 
 Me he quitado los audífonos y ahora en tu silencio me hablas de más listas...
 
-Pueblo en el que tantos he sido y mucho he soñado, en el que mil veces he nacido y moriré la muerte final; tu me haz visto desnudo y borracho, embriagado en mis amores y abrazado a mis amigos; tu que me diste seno, techo y leyes, una infancia feliz y la constante posibilidad de ir al río; tu que no me has dicho nada y me lo has dado todo, que me haces desear ser roca en la orilla, fundida de mis cenizas, como un impulso de perdurar sobre tu eterno pantano y más allá del tiempo, en tu silencio hondo y sagrado. 
+Pueblo en el que tantos he sido y mucho he soñado, en el que mil veces he nacido y moriré la muerte final; tu que me haz visto desnudo y borracho, embriagado en mis amores y abrazado a mis amigos; tu que me diste seno, techo y leyes, una infancia feliz y la constante posibilidad de ir al río; tu que no me has dicho nada y me lo has dado todo, que me haces desear ser roca en la orilla, fundida de mis cenizas, como un impulso de perdurar sobre tu eterno pantano y más allá del tiempo, en tu silencio hondo y sagrado. 
+
+#nare #río #epitafio #irse
