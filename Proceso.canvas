@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"a56c0eb51a8d0999","x":-280,"y":520,"width":660,"height":340,"type":"group","label":"PARA"},
-		{"id":"46d4dbc024b68add","x":-280,"y":80,"width":300,"height":340,"type":"group","label":"CODE"},
-		{"id":"33b2cdf531c4e8bf","x":-260,"y":100,"width":250,"height":50,"type":"text","text":"Capture (Capturar)"},
-		{"id":"f6afa438c52742e1","x":-260,"y":180,"width":250,"height":50,"type":"text","text":"Organize (Organizar)"},
-		{"id":"3a1cd8d1879c0662","x":-260,"y":260,"width":250,"height":50,"type":"text","text":"Distill (Destilar, depurarr)"},
-		{"id":"3273f5906ec73890","x":-260,"y":340,"width":250,"height":50,"type":"text","text":"Express (Expresar)"},
+		{"id":"a56c0eb51a8d0999","type":"group","x":-280,"y":520,"width":660,"height":340,"label":"PARA"},
+		{"id":"46d4dbc024b68add","type":"group","x":-280,"y":80,"width":300,"height":340,"label":"CODE"},
+		{"id":"33b2cdf531c4e8bf","type":"text","text":"Capture (Capturar)","x":-260,"y":100,"width":250,"height":50},
+		{"id":"f6afa438c52742e1","type":"text","text":"Organize (Organizar)","x":-260,"y":180,"width":250,"height":50},
+		{"id":"3a1cd8d1879c0662","type":"text","text":"Distill (Destilar, depurarr)","x":-260,"y":260,"width":250,"height":50},
+		{"id":"3273f5906ec73890","type":"text","text":"Express (Expresar)","x":-260,"y":340,"width":250,"height":50},
 		{"id":"2ab0dcad64a70429","type":"text","text":"Proyectos","x":-240,"y":540,"width":250,"height":50},
 		{"id":"3ed355ba75a42430","type":"text","text":"Áreas","x":-240,"y":620,"width":250,"height":50},
 		{"id":"16d27db4be9bf8cd","type":"text","text":"Recursos","x":-240,"y":700,"width":250,"height":50},
 		{"id":"c92eee2f88935e1c","type":"text","text":"Archivos","x":-240,"y":780,"width":250,"height":50},
-		{"id":"c0a23c9400894bce","x":40,"y":571,"width":290,"height":234,"type":"file","file":"Adjuntos/Pasted image 20231223155421.png"}
+		{"id":"c0a23c9400894bce","type":"file","file":"Adjuntos/Pasted image 20231223155421.png","x":40,"y":565,"width":289,"height":234}
 	],
 	"edges":[
 		{"id":"638a13d625b6a768","fromNode":"33b2cdf531c4e8bf","fromSide":"bottom","toNode":"f6afa438c52742e1","toSide":"top"},
