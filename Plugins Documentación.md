@@ -13,6 +13,7 @@
 
 - tag Wrangler
 - properties (core)
+- Alias (Con propiedades)
 
 ---
 #### Para Tablas y visualización de datos

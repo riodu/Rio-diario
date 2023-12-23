@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
-  "weeklyNoteTemplate": "/3-Recursos/Plantillas/Registro Semanal",
-  "weeklyNoteFolder": "/4-Archivo/Registro/Registro Semanal",
+  "weeklyNoteTemplate": "/4-Recursos/Plantillas/Registro Semanal",
+  "weeklyNoteFolder": "/5-Archivo/Registro/Registro Semanal",
   "localeOverride": "system-default"
 }
