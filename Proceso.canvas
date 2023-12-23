@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"33b2cdf531c4e8bf","x":-280,"y":-220,"width":250,"height":160,"type":"text","text":"Método CODE:\n- Capture (Capturar)\n- Organize (Organizar)\n- Distill (Destilar, depurar)\n- Express (Expresar)"}
+		{"id":"a56c0eb51a8d0999","x":60,"y":80,"width":320,"height":340,"type":"group","label":"PARA"},
+		{"id":"46d4dbc024b68add","x":-280,"y":80,"width":300,"height":340,"type":"group","label":"CODE"},
+		{"id":"33b2cdf531c4e8bf","x":-260,"y":100,"width":250,"height":50,"type":"text","text":"Capture (Capturar)"},
+		{"id":"f6afa438c52742e1","x":-260,"y":180,"width":250,"height":50,"type":"text","text":"Organize (Organizar)"},
+		{"id":"3a1cd8d1879c0662","x":-260,"y":260,"width":250,"height":50,"type":"text","text":"Distill (Destilar, depurarr)"},
+		{"id":"3273f5906ec73890","x":-260,"y":340,"width":250,"height":50,"type":"text","text":"Express (Expresar)"},
+		{"id":"2ab0dcad64a70429","type":"text","text":"Proyectos","x":100,"y":100,"width":250,"height":50},
+		{"id":"3ed355ba75a42430","type":"text","text":"Áreas","x":100,"y":180,"width":250,"height":50},
+		{"id":"16d27db4be9bf8cd","type":"text","text":"Recursos","x":100,"y":260,"width":250,"height":50},
+		{"id":"c92eee2f88935e1c","type":"text","text":"Archivos","x":100,"y":340,"width":250,"height":50}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"638a13d625b6a768","fromNode":"33b2cdf531c4e8bf","fromSide":"bottom","toNode":"f6afa438c52742e1","toSide":"top"},
+		{"id":"fd53dcacb46a8a6d","fromNode":"f6afa438c52742e1","fromSide":"bottom","toNode":"3a1cd8d1879c0662","toSide":"top"},
+		{"id":"b9f317af0a3aae58","fromNode":"3a1cd8d1879c0662","fromSide":"bottom","toNode":"3273f5906ec73890","toSide":"top"}
+	]
 }
