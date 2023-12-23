@@ -20,5 +20,12 @@ action Usar modo oscuro
 color purple
 ```
 
+```button
+name Nuevo Nota
+type command
+action Crear nueva nota
+color green
+```
+
 
 
