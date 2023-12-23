@@ -16,7 +16,9 @@
 		{"id":"c8bf8a859ca30832","type":"text","text":"Semanal - Mensual","x":-780,"y":540,"width":250,"height":50},
 		{"id":"4f1a425870ad37a8","type":"text","text":"Recursos","x":-780,"y":700,"width":250,"height":50},
 		{"id":"c1a9ca00cac821a1","type":"text","text":"Archivos","x":-780,"y":780,"width":250,"height":50},
-		{"id":"2898485679f9f186","type":"text","text":"Recoger -> Revisiar -> Buscar -> Mover -> Crear","x":-800,"y":620,"width":400,"height":50}
+		{"id":"2898485679f9f186","type":"text","text":"Recoger -> Revisiar -> Buscar -> Mover -> Crear","x":-800,"y":620,"width":400,"height":50},
+		{"id":"22641a61c115a3e0","x":240,"y":30,"width":480,"height":390,"type":"link","url":"https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/#how-i-use-basb-myself"},
+		{"id":"2a6ea8add5139055","x":-140,"y":980,"width":220,"height":244,"type":"file","file":"Adjuntos/Pasted image 20231223165803.png"}
 	],
 	"edges":[
 		{"id":"638a13d625b6a768","fromNode":"33b2cdf531c4e8bf","fromSide":"bottom","toNode":"f6afa438c52742e1","toSide":"top"},
