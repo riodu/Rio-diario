@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"33b2cdf531c4e8bf","x":-280,"y":-220,"width":250,"height":160,"type":"text","text":"Método CODE:\n- Capture (Capturar)\n- Organize (Organizar)\n- Distill (Destilar, depurar)\n- Express (Expresar)"}
+	],
+	"edges":[]
+}
