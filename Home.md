@@ -6,6 +6,19 @@ color green
 ```
 
 
+```button
+name A claro
+type command
+action Usar modo claro
+color yellow
+```
+
+```button
+name A oscuro
+type command
+action Usar modo oscuro
+color purple
+```
 
 
 
