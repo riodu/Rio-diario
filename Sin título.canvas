@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"4e99c80b61bcff64","x":-280,"y":-160,"width":400,"height":410,"type":"group","label":"Temas"},
+		{"id":"95d57ccbfabbb83c","x":200,"y":-160,"width":400,"height":400,"type":"group","label":"Herramientas"},
+		{"id":"9a8f77430725fcf2","x":-260,"y":-140,"width":125,"height":50,"type":"text","text":"Río"},
+		{"id":"30273d3bf23986f9","x":-260,"y":-80,"width":125,"height":50,"type":"text","text":"Tiempo"},
+		{"id":"0a31362aeb3d4d0b","x":-260,"y":-20,"width":125,"height":50,"type":"text","text":"Sentido"},
+		{"id":"af3df1920eedb3d7","x":220,"y":-80,"width":125,"height":50,"type":"text","text":"Lectura"},
+		{"id":"827286a1f0d4384d","x":220,"y":-140,"width":125,"height":50,"type":"text","text":"Escritura"}
+	],
+	"edges":[]
+}
