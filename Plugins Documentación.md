@@ -57,6 +57,7 @@ sticker: ""
 ---
 #### Para total libertad
 - obsidian-shellcommands
+- BRAT 
 
 ---
 #### Para estilos y apariencia y temas
