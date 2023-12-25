@@ -3,12 +3,11 @@
 
 
 `ris:Home7` [[Home]]
-						[[]]
-						Proyectos
-						Áreas
-___
-						
-
+						`ris:Inbox`[[Entradas]]
+						`ris:Folder2`[[Proyectos]]
+						`ris:WaterFlash`[[Áreas]]
+						`ris:HardDrive`[[Recursos]]
+						`ris:Archive`[[Archivos]]
 
 
 
