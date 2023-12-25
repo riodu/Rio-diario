@@ -6,7 +6,7 @@
   "buttons",
   "quickadd",
   "homepage",
-  "make-md",
   "obsidian-emoji-toolbar",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "dataview"
 ]
