@@ -1,0 +1,8 @@
+{
+  "pluginVersion": "0.2.0",
+  "layout": "1x2",
+  "data": [],
+  "showBorders": true,
+  "showOptionBar": true,
+  "borderSpacing": "50px"
+}
