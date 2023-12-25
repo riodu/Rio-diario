@@ -43,7 +43,7 @@ Text displayed in column 2.
 
 --- end-multi-column
 
-## Icon Links Dashboard using `[!multi-column|center-fixed-small]`
+## Icon Links Dashboard using
 
 > [!multi-column|center-fixed-small]
 >
