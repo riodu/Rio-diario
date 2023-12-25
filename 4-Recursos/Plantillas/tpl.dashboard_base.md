@@ -1,7 +1,9 @@
 
 
-<% tp.date.now() %>
+2023-12-25
 
+> [!quote] Science is organized knowledge. Wisdom is organized life.
+> — Immanuel Kant
 
 
 `ris:Home7` [[Home]] 
