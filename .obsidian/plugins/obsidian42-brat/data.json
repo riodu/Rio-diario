@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "akaalias/obsidian-shuffle",
     "trey-wallis/obsidian-dashboards"
   ],
   "pluginSubListFrozenVersion": [],
