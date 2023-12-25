@@ -1,4 +1,7 @@
-
+---
+sticker: ""
+---
+/
 
 #### Para git y sincronización
 - obsidean-git

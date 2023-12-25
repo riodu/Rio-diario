@@ -5,7 +5,7 @@
       "name": "Registro Diario",
       "type": "Template",
       "command": false,
-      "templatePath": "3-Recursos/Plantillas/Registro Diario.md",
+      "templatePath": "4-Recursos/Plantillas/Registro Diario.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{DATE:}}"
@@ -34,7 +34,7 @@
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "3-Recursos/Plantillas",
+  "templateFolderPath": "4-Recursos/Plantillas",
   "announceUpdates": true,
   "version": "1.6.1",
   "disableOnlineFeatures": true,
