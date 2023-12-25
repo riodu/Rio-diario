@@ -1,6 +1,8 @@
 
 
-
+{{title}}
+{{date}}
+{{time}}
 
 `ris:Home7` [[Home]] 
 
