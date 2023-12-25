@@ -1,0 +1,99 @@
+.callout[data-callout="top"] {
+  --callout-color: var(--callout-example);
+   background: linear-gradient(0deg, rgba(var(--callout-default), 0), rgba(var(--callout-example), .2));
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0 !important; /* Position the navbar at the top of the page */
+  width: 100% !important; /* Full width */
+  border-radius: 0px;
+  margin:0px !important;
+}
+.callout[data-callout="top"] .callout-content {
+	color: var(--text-faint);
+	text-align: center;
+	justify-content: center;
+	min-height: 1.5em;
+	margin-top: 0px !important;
+	display: flex;
+	flex-direction: column;
+	padding: 5px;
+	width: 100% !important;
+}
+.callout[data-callout="top"] .callout-content h1,
+.callout[data-callout="top"] .callout-content h2,
+.callout[data-callout="top"] .callout-content h3 {
+	text-align: center !important;
+	justify-content: center !important;
+	display: block;
+	padding: 5px;
+	width: 99% !important;
+	color: var(--text-muted);
+	margin-bottom: 2px;
+}
+
+
+
+.callout[data-callout="top"] .callout-content h4,
+.callout[data-callout="top"] .callout-content h5,
+.callout[data-callout="top"] .callout-content h6 {
+	text-align: left !important;
+}
+.callout[data-callout="top"] .callout-content p {
+	margin: 0;
+	padding: 0px;
+	justify-content: left;
+	text-align: left;
+}
+.callout[data-callout="top"] a.internal-link {
+	color: var(--color-base-50);
+	font-family: Monaspace Neon !important;
+	font-weight: 600;
+	text-align: center !important;
+	justify-content: center !important;
+	text-decoration: none;
+	letter-spacing: .08em;
+	transition: opacity 5s ease;
+	transition: background-color 0.5s ease;
+	align-items: center;
+	border-bottom: 0px var(--color-base-50) solid !important;
+	border-style: none;
+	display: inline-flex;
+	border-radius: 20px !important;
+	height: 36px;
+	line-height: normal;
+	outline: none;
+	overflow: hidden;
+	padding: 20px;
+	opacity: .9 !important;
+	margin: 0px;
+}
+.callout[data-callout="top"] a.internal-link:hover {
+	border-bottom: 0px var(--text-accent) solid !important;
+	color: var(--text-accent) !important;
+	border-radius: 20px !important;
+	padding: 20px;
+	opacity: 1 !important;
+	background-color: var(--color-base-20) !important;
+}
+.callout[data-callout="top"] .callout-title,
+.callout[data-callout="top"] .callout-title-inner {
+	display: none !important;
+	padding: 0px !important;
+}
+.callout[data-callout="top"] .callout-fold,
+.callout[data-callout="top"] .callout-icon {
+	display: none;
+	font-size: 3em !important;
+}
+.callout[data-callout="top"] table {
+  width: 99% !important;
+  border: #FFFFFF !important;
+  border-radius: 15px !important;
+
+}
+/* CALLOUT METADATA */
+.callout[data-callout-metadata="menu"]  {
+	background-color: var(text-normal) !important;
+	--icon-size: 5em !important;
+    margin: 0px !important;
+}
