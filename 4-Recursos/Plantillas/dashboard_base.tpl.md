@@ -62,3 +62,18 @@ Text displayed in column 2.
 >>
 >> [![home icon|80](https://img.icons8.com/ios/250/FFFFFF/house-with-a-garden.png) <br/> Family](target%20note.md)
 
+
+
+- #### Core Work #mcl/list-card
+    - [[00 Home|Main Goal 1]]
+    - [[00 Home|Main Goal 1]]
+    - [[00 Home|Main Goal 1]]
+        - Collaboration with Jane
+    - [[00 Home|Main Goal 1]]
+- #### Learning & System
+    - [[00 Home|Learning Goal 1]]
+    - [[00 Home|Initiative 1]]
+    - [[00 Home|Initiative 2]]
+- #### Personal
+    - [[00 Home|Personal Goal 1]]
+    - [[00 Home|Personal Goal 2]]
