@@ -48,7 +48,7 @@ Text displayed in column 2.
 > [!multi-column|center-fixed-small]
 >
 >> [!blank|center]
->> [![lightbulb icon|80](https://img.icons8.com/ios/250/FFFFFF/light-on.png) <br/> Interests](target%20note.md)
+>> `ris:Home7` ![<br/> Home](4-Recursos/Paginas/Home)
 >>
 >> [![macbook icon|80](https://img.icons8.com/ios/250/FFFFFF/macbook.png) <br/> Technology](target%20note.md)
 >
