@@ -1,10 +1,4 @@
-
-
-
-<% tp.date.now() %>
-
-
-Text displayed above.
+# <% tp.file.title %>
 
 ```start-multi-column  
 ID: ExampleRegion1  

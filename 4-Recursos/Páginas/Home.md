@@ -1,11 +1,4 @@
-
-
-
-
-2023-12-25
-
-
-Text displayed above.
+# Home
 
 ```start-multi-column  
 ID: ExampleRegion1  
@@ -26,4 +19,3 @@ largest column: right
 Text displayed in column 2.
 
 --- end-multi-column
-
