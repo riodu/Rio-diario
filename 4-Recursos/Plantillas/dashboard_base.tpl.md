@@ -3,9 +3,6 @@
 > Contents
 
 
-
-
-
 # <% tp.file.title %>
 
 
@@ -31,7 +28,6 @@ Text displayed in column 2.
 
 
 
-> [!top| Menu] Title
-> Contents
->
+
+
 
