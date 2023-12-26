@@ -7,16 +7,6 @@
 
 <br>
 
-```start-multi-column
-ID: ID_172e
-Number of Columns: 1
-Largest Column: standard
-```
-
-
-
-
-
 ---
 <br>
 
@@ -43,13 +33,3 @@ Largest Column: standard
 <br>
 
 ---
-
-
-
-
-
---- column-end ---
-
-
-
---- end-multi-column
