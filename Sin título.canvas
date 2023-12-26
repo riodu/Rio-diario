@@ -10,7 +10,8 @@
 		{"id":"827286a1f0d4384d","type":"text","text":"Escritura","x":220,"y":-140,"width":125,"height":50},
 		{"id":"e86f9f9e50001a9f","x":-260,"y":360,"width":250,"height":60,"type":"text","text":"Universidad"},
 		{"id":"fe183d8526331267","x":-260,"y":460,"width":250,"height":60,"type":"text","text":"Personal"},
-		{"id":"6d53b0d48467f269","x":-260,"y":560,"width":250,"height":60,"type":"text","text":"Escritura"}
+		{"id":"6d53b0d48467f269","x":-260,"y":560,"width":250,"height":60,"type":"text","text":"Escritura"},
+		{"id":"830c43e18525271d","x":-260,"y":660,"width":250,"height":60,"type":"text","text":"General"}
 	],
 	"edges":[]
 }
