@@ -13,19 +13,47 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Registro/Registro Diario"
+          "5-Archivo/Registro/Registro Diario"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": true
       },
-      "appendLink": true,
+      "appendLink": false,
       "openFileInNewTab": {
         "enabled": true,
         "direction": "vertical",
         "focus": true
       },
       "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c1714fb3-3608-4e22-bbaf-90f448ffff52",
+      "name": "Nuevo Proyecto",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
