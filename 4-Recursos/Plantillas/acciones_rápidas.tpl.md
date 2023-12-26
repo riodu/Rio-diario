@@ -17,10 +17,8 @@ ___
 
 ---
 
-
 ```button
-name Nuevo Proyecto
-type template
-action Registro Diario
-color yellow
+type command
+action QuickAdd: Run QuickAdd
 ```
+
