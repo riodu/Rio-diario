@@ -6,11 +6,12 @@
 > Contents
 
 
-# **Home**
+# <p align="center"> **Home**</p>
 
 <br>
 
 ---
+#### <p align="center">PARA</p>
 <br>
 
 > [!multi-column|center-fixed]
@@ -36,7 +37,7 @@
 <br>
 
 ---
-### Espacios
+### <p align="center">Espacios</p>
 <br>
 
 > [!multi-column]
