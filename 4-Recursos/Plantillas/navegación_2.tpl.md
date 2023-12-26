@@ -4,8 +4,8 @@
 
 
 <br>
-
-> [!sumary|float-left]  [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]]
+> > 
+> [!sumary|left]  [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]]
 > > [!multi-column|center-fixed]
 >
 >> [!blank-container]
@@ -25,4 +25,5 @@
 >
 >> [!blank-container]
 >> `ris:Archive` [[Archivos]]
+
 

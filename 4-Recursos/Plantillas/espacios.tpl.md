@@ -1,7 +1,4 @@
-### <p align="center">Espacios</p>
-<br>
-
-> [!multi-column|right-center-fixed]
+> [!multi-column|center]
 >
 >> [!blank|center]
 >> [![lightbulb icon|80](https://img.icons8.com/ios/100/FFFFFF/pencil.png) <br/> Escribir](4-Recursos/Páginas/Escribir)
