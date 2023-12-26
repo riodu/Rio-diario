@@ -24,3 +24,6 @@ color purple```
 ---
 
 
+```
+> [!info|float-right-small] Average Temperatures and Rainfall
+```
