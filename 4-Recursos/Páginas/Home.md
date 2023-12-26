@@ -48,8 +48,14 @@
 
 
 ```dataview
-list from "4-Recursos/Libros"
+table
+title AS Nombre,
+author AS Autor,
+category
+FROM "4-Recursos/Libros"
 ```
+
+
 
 
 
