@@ -34,7 +34,7 @@
       "id": "c1714fb3-3608-4e22-bbaf-90f448ffff52",
       "name": "Nuevo Proyecto",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "4-Recursos/Plantillas/proyecto.tpl.md",
       "fileNameFormat": {
         "enabled": false,
@@ -43,7 +43,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "2-Proyectos/{{name}}"
+          "2-Proyectos"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

@@ -18,13 +18,8 @@ ___
 ---
 
 ```button
-type command
-action QuickAdd: Run QuickAdd
-```
-
-```button
 name Nuevo Proyecto
 type command
-action QuickAdd: Run QuickAdd
-color blue
+action QuickAdd: Nuevo Proyecto
+color purple
 ```
