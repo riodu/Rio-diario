@@ -9,17 +9,18 @@ ___
 
 > [!multi-column]
 >
->> [!note|wide-3]+ Acciones Rápidas
->> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
+>> [!note|wide-3]+ Acciones Rápida
+>
+>> [!blank-container]
+>> ```button
+name Nuevo Proyecto
+type command
+action QuickAdd: Nuevo Proyecto
+color purple```
 
 
 <br>
 
 ---
 
-```button
-name Nuevo Proyecto
-type command
-action QuickAdd: Nuevo Proyecto
-color purple
-```
+
