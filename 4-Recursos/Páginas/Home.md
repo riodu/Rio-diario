@@ -1,21 +1,49 @@
-# Home
 
-```start-multi-column  
-ID: ExampleRegion1  
-number of columns: 2  
-largest column: right
-```
+> [!top| Menu]
+> Contents
 
-`ris:Home7` [[Home]] 
-					
-					`ris:Inbox`[[Entradas]] 
-					`ris:Folder2`[[Proyectos]] 
-					`ris:WaterFlash`[[Áreas]] 
-					`ris:HardDrive`[[Recursos]]
-					`ris:Archive`[[Archivos]]
+> [!top| Menu]
+> Contents
 
---- end-column ---
 
-Text displayed in column 2.
+# **Home**
 
---- end-multi-column
+<br>
+
+---
+<br>
+
+> [!multi-column|center-fixed]
+>
+>> [!blank-container]
+>> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
+>
+>> [!blank-container]
+>> `ris:Archive` [[Archivos]]
+>
+>> [!blank-container]
+>> `ris:Folder2` [[Proyectos]]
+>
+>> [!blank-container]
+>> `ris:Inbox` [[Inbox]]
+>
+>> [!blank-container]
+>> `ris:ContrastDrop2` [[Áreas]]
+>
+>> [!blank-container]
+>> `ris:Database2` [[Recursos]]
+
+<br>
+
+---
+
+
+
+
+
+
+
+
+
+
+

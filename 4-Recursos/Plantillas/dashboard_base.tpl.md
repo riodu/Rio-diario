@@ -3,11 +3,12 @@
 > Contents
 
 
-# dashboard_base.tpl
+# **<% tp.file.title %>**
 
+<br>
 
 ---
-
+<br>
 
 > [!multi-column|center-fixed]
 >
@@ -29,6 +30,7 @@
 >> [!blank-container]
 >> `ris:Database2` [[Recursos]]
 
+<br>
 
 ---
 
