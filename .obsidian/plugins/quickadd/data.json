@@ -35,17 +35,19 @@
       "name": "Nuevo Proyecto",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "4-Recursos/Plantillas/proyecto.tpl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "2-Proyectos/{{name}}"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "chooseFromSubfolders": true
       },
       "appendLink": false,
       "openFileInNewTab": {
