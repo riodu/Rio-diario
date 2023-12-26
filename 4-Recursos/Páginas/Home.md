@@ -49,9 +49,6 @@
 >
 >> [!blank|center]
 >> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/brain.png) <br/> Life & Wisdom](target%20note.md)
->
->> [!blank|center]
->> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/brain.png) <br/> Life & Wisdom](target%20note.md)
 
 
 
