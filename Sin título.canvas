@@ -1,12 +1,16 @@
 {
 	"nodes":[
-		{"id":"4e99c80b61bcff64","x":-280,"y":-160,"width":400,"height":410,"type":"group","label":"Temas"},
-		{"id":"95d57ccbfabbb83c","x":200,"y":-160,"width":400,"height":400,"type":"group","label":"Herramientas"},
-		{"id":"9a8f77430725fcf2","x":-260,"y":-140,"width":125,"height":50,"type":"text","text":"Río"},
-		{"id":"30273d3bf23986f9","x":-260,"y":-80,"width":125,"height":50,"type":"text","text":"Tiempo"},
-		{"id":"0a31362aeb3d4d0b","x":-260,"y":-20,"width":125,"height":50,"type":"text","text":"Sentido"},
-		{"id":"af3df1920eedb3d7","x":220,"y":-80,"width":125,"height":50,"type":"text","text":"Lectura"},
-		{"id":"827286a1f0d4384d","x":220,"y":-140,"width":125,"height":50,"type":"text","text":"Escritura"}
+		{"id":"4e99c80b61bcff64","type":"group","x":-280,"y":-160,"width":400,"height":410,"label":"Temas"},
+		{"id":"95d57ccbfabbb83c","type":"group","x":200,"y":-160,"width":400,"height":400,"label":"Herramientas"},
+		{"id":"ff498f7b801ed9f9","x":-280,"y":340,"width":400,"height":400,"type":"group","label":"Espacios"},
+		{"id":"9a8f77430725fcf2","type":"text","text":"Río","x":-260,"y":-140,"width":125,"height":50},
+		{"id":"30273d3bf23986f9","type":"text","text":"Tiempo","x":-260,"y":-80,"width":125,"height":50},
+		{"id":"0a31362aeb3d4d0b","type":"text","text":"Sentido","x":-260,"y":-20,"width":125,"height":50},
+		{"id":"af3df1920eedb3d7","type":"text","text":"Lectura","x":220,"y":-80,"width":125,"height":50},
+		{"id":"827286a1f0d4384d","type":"text","text":"Escritura","x":220,"y":-140,"width":125,"height":50},
+		{"id":"e86f9f9e50001a9f","x":-260,"y":360,"width":250,"height":60,"type":"text","text":"Universidad"},
+		{"id":"fe183d8526331267","x":-260,"y":460,"width":250,"height":60,"type":"text","text":"Personal"},
+		{"id":"6d53b0d48467f269","x":-260,"y":560,"width":250,"height":60,"type":"text","text":"Escritura"}
 	],
 	"edges":[]
 }
