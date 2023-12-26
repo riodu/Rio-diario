@@ -19,7 +19,7 @@
 >> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
 >
 >> [!blank-container]
->> `ris:Archive` [[Archivos]]
+>> `ris:ContrastDrop2` [[Áreas]]
 >
 >> [!blank-container]
 >> `ris:Folder2` [[Proyectos]]
@@ -28,15 +28,14 @@
 >> `ris:Inbox` [[Inbox]]
 >
 >> [!blank-container]
->> `ris:ContrastDrop2` [[Áreas]]
+>> `ris:Database2` [[Recursos]]
 >
 >> [!blank-container]
->> `ris:Database2` [[Recursos]]
+>> `ris:Archive` [[Archivos]]
 
 <br>
 
 ---
-
 
 
 
