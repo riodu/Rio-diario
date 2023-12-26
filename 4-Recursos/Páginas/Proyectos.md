@@ -1,16 +1,12 @@
 
-> [!top| Menu]
-> Contents
-
-
-# **Proyectos**
-
-<br>
-
+# <p align="center"> Proyectos</p>
 ---
+
+
 <br>
 
-> [!multi-column|center-fixed]
+> [!sumary|float-left]  [[4-Recursos/Páginas/Proyectos|Proyectos]]
+> > [!multi-column|center-fixed]
 >
 >> [!blank-container]
 >> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
@@ -29,8 +25,4 @@
 >
 >> [!blank-container]
 >> `ris:Archive` [[Archivos]]
-
-<br>
-
----
 

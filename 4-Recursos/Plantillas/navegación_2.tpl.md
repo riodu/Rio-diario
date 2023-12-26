@@ -1,9 +1,11 @@
 
-HOme
-
+# <p align="center"> <% tp.file.title %></p>
 ---
 
-> [!info|float-left-small] Average Temperatures and Rainfall
+
+<br>
+
+> [!sumary|float-left]  [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]]
 > > [!multi-column|center-fixed]
 >
 >> [!blank-container]
@@ -24,15 +26,3 @@ HOme
 >> [!blank-container]
 >> `ris:Archive` [[Archivos]]
 
-
-
-Hola
-
-
-
-
-
-
-
-
----

@@ -65,4 +65,22 @@ sticker: ""
 - Anaupunce (Tema) ([Guía](https://youtu.be/7-SOwxpZQNI))
 
 
+---
+#### Para callouts
+- Types: 
+	- info
+	- tip 
+	- warning
+	- faq
+	- question
+	- todo
+	- example 
+	- note
+	- success
+	- failure
+	- danger
+	- bug
+	- quote
+
+
 
