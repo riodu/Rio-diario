@@ -58,24 +58,6 @@ ___
 <br>
 
 
-> [!multi-column]
->
->> [!note|wide-3]+ Acciones Rápidas
->> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
-
-
-<br>
-
-```dataview
-table
-title AS Nombre,
-author AS Autor,
-category
-FROM "4-Recursos/Libros"
-```
-
-
-
 
 
 
