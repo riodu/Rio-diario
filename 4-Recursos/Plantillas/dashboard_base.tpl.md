@@ -13,7 +13,7 @@
 > [!multi-column|center-fixed]
 >
 >> [!blank-container]
->> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
+>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
 >
 >> [!blank-container]
 >> `ris:ContrastDrop2` [[Áreas]]
