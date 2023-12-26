@@ -3,29 +3,34 @@
 > Contents
 
 
-# <% tp.file.title %>
+# dashboard_base.tpl
 
 
-```start-multi-column  
-ID: ExampleRegion1  
-number of columns: 2  
-largest column: right
-```
+---
 
-`ris:Home7` [[Home]] 
-					
-					`ris:Inbox`[[Entradas]] 
-					`ris:Folder2`[[Proyectos]] 
-					`ris:WaterFlash`[[Áreas]] 
-					`ris:HardDrive`[[Recursos]]
-					`ris:Archive`[[Archivos]]
 
---- end-column ---
+> [!multi-column|center-fixed]
+>
+>> [!blank-container]
+>> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
+>
+>> [!blank-container]
+>> `ris:Archive` [[Archivos]]
+>
+>> [!blank-container]
+>> `ris:Folder2` [[Proyectos]]
+>
+>> [!blank-container]
+>> `ris:Inbox` [[Inbox]]
+>
+>> [!blank-container]
+>> `ris:ContrastDrop2` [[Áreas]]
+>
+>> [!blank-container]
+>> `ris:Database2` [[Recursos]]
 
-Text displayed in column 2.
 
---- end-multi-column
-
+---
 
 
 
