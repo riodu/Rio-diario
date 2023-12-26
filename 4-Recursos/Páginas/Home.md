@@ -47,6 +47,15 @@
 >> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
 
 
+```dataview
+list from "1-Entrada"
+```
+
+
+
+
+
+
 
 
 
