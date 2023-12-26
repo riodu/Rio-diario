@@ -42,7 +42,7 @@
 > [!multi-column]
 >
 >> [!blank|center]
->> [![lightbulb icon|80](https://img.icons8.com/ios/100/FFFFFF/light-on.png) <br/> Interests](target%20note.md)
+>> [![lightbulb icon|80](https://img.icons8.com/ios/100/FFFFFF/light-on.png) <br/> Escribir](target%20note.md)
 >
 >>[!blank|center]
 >> [![macbook icon|80](https://img.icons8.com/ios/250/FFFFFF/macbook.png) <br/> Technology](target%20note.md)
@@ -62,12 +62,10 @@
 > [!multi-column]
 >
 >> [!note|wide-3]+ Acciones Rápidas
->> >> [!blank-container]
->> `ris:Home7` [[```button name Nueva Tarea type command action Crear nueva nota```]]
 >> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
 
 
-
+<br>
 
 ```dataview
 table
