@@ -1,9 +1,7 @@
-
----
 ### <p align="center">Espacios</p>
 <br>
 
-> [!multi-column]
+> [!multi-column|right-center-fixed]
 >
 >> [!blank|center]
 >> [![lightbulb icon|80](https://img.icons8.com/ios/100/FFFFFF/pencil.png) <br/> Escribir](4-Recursos/Páginas/Escribir)
@@ -13,9 +11,3 @@
 >
 >> [!blank|center]
 >> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> Aprender](4-Recursos/Páginas/Aprender)
-
-<br>
-
-___
-
-<br>
