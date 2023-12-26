@@ -48,8 +48,9 @@
 
 
 ```dataview
-list from "1-Entrada"
+list from "4-Recursos/Libros"
 ```
+
 
 
 
