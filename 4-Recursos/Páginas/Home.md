@@ -2,8 +2,7 @@
 # <p align="center"> Home</p>
 ---
 
-
-<br>
+</br>
 
 > [!sumary|float-left]  [[4-Recursos/Páginas/Home|Home]] 
 > > [!multi-column|center-fixed]
@@ -26,7 +25,8 @@
 >> [!blank-container]
 >> `ris:Archive` [[Archivos]]
 
-> [!sumary|float] <p align="center"> Espacios </p>
+
+>[!sumary|float-right-fixed] <p align="center"> Espacios </p>
 >
 >> [!blank-container|float-left]
 >> [![lightbulb icon|140](https://img.icons8.com/ios/100/FFFFFF/pencil.png) <br/> <p align="center">Escribir </p>](4-Recursos/Páginas/Escribir)
@@ -39,3 +39,33 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+___
+
+<br>
