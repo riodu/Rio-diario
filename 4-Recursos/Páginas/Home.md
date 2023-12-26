@@ -37,6 +37,16 @@
 
 ---
 
+<br>
+
+> [!multi-column]
+>
+>> [!note|wide-3]+ Acciones Rápidas
+>> >> [!blank-container]
+>> `ris:Home7` [[```button name Nueva Tarea type command action Crear nueva nota```]]
+>> `ris:Home7` [[4-Recursos/Paginas/Home|Home]]
+
+
 
 
 
