@@ -84,9 +84,11 @@ FROM "1-Entrada"
 
 ```dataview
 TABLE
-	file.folder AS Folder, file.etags
+	file.name
 FROM "1-Entrada"
+WHERE file.name = "Mercar"
 ```
+
 
 
 
