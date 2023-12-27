@@ -1,1 +1,1 @@
-<% tp.file.include("[[navegación_home.tpl]]") %>
+<% tp.file.include("[[navegación_general.tpl]]") %>
