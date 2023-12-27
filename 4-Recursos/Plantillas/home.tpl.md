@@ -84,14 +84,17 @@ FROM "1-Entrada"
 
 ```dataview
 TABLE
-	file.name
-FROM #universidad 
-WHERE file.status = open
+	folder
+FROM "2-Proyectos" 
 ```
 
 
 
-
+Literal (date) date(yesterday) used in a comparison 
+```dataview
+TASK
+WHERE !completed AND file.day = date(yesterday) 
+```
 
 
 
