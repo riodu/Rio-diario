@@ -1,31 +1,24 @@
-
-# <p align="center"> <% tp.file.title %></p>
----
-
-</br>
-
-> [!sumary|float-left]  [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]] 
-> > [!multi-column|center-fixed]
+> [!multi-column]
 >
->> [!blank-container]
->> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
+> > [!sumary|float-left] [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]] 
+>>> [!blank-container]
+>>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
+>>
+>>> [!blank-container]
+>>> `ris:Folder2` [[Proyectos]]
+>>
+>>> [!blank-container]
+>>> `ris:ContrastDrop2` [[Áreas]]
+>>
+>>> [!blank-container]
+>>> `ris:Inbox` [[Inbox]]
+>>
+>>> [!blank-container]
+>>> `ris:Database2` [[Recursos]]
+>>
+>>> [!blank-container]
+>>> `ris:Archive` [[Archivos]]
 >
->> [!blank-container]
->> `ris:ContrastDrop2` [[Áreas]]
->
->> [!blank-container]
->> `ris:Folder2` [[Proyectos]]
->
->> [!blank-container]
->> `ris:Inbox` [[Inbox]]
->
->> [!blank-container]
->> `ris:Database2` [[Recursos]]
->
->> [!blank-container]
->> `ris:Archive` [[Archivos]]
-
-> >[!multi-column]
 > > [!multi-column|pw6]
 > >
 > > > [!tldr]- Manifest
@@ -39,37 +32,3 @@
 > > > 	- completed
 > > > - ### Project B
 > > > 	- ongoing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-
-___
-
-<br>
