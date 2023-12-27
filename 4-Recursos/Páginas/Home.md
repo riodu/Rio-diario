@@ -11,19 +11,19 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[4-Recursos/Páginas/home.tpl|home.tpl]] 
+> > [!sumary|left] [[4-Recursos/Páginas/home.tpl|Home]] 
 > </br>
 >>> [!blank-container]
 >>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
+>>
+>>> [!blank-container]
+>>> `ris:Inbox` [[Entradas]]
 >>
 >>> [!blank-container]
 >>> `ris:Folder2` [[Proyectos]]
 >>
 >>> [!blank-container]
 >>> `ris:ContrastDrop2` [[Áreas]]
->>
->>> [!blank-container]
->>> `ris:Inbox` [[Inbox]]
 >>
 >>> [!blank-container]
 >>> `ris:Database2` [[Recursos]]
@@ -56,7 +56,13 @@
 >>> ```
 > >
 > > > [!info]- Inbox
-> > > Contents
+> > > ```dataview
+>>>TABLE
+>>>	estado, tags
+>>>FROM "1-Entrada"
+>>>WHERE estado != "completado"
+>>>AND momento = "entrada"
+>>>```
 > >
 > > > [!tip] Espacios
 > > >>[!sumary|float-center] <p align="center"> 137 </p>
@@ -71,5 +77,15 @@
 >>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> <p align="center">Aprender</p>](4-Recursos/Páginas/Aprender)
 >>>>
 >>>>> [!blank-container|float-right]
->>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> <p align="center">Universidad</p>](4-Recursos/Páginas/Universidad)
+>>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/time.png) <br/> <p align="center">Sentidos</p>](4-Recursos/Páginas/Sentidos)
+
+
+
+
+
+
+
+
+
+
 

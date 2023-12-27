@@ -17,13 +17,13 @@
 >>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
 >>
 >>> [!blank-container]
+>>> `ris:Inbox` [[Entradas]]
+>>
+>>> [!blank-container]
 >>> `ris:Folder2` [[Proyectos]]
 >>
 >>> [!blank-container]
 >>> `ris:ContrastDrop2` [[Áreas]]
->>
->>> [!blank-container]
->>> `ris:Inbox` [[Entradas]]
 >>
 >>> [!blank-container]
 >>> `ris:Database2` [[Recursos]]
