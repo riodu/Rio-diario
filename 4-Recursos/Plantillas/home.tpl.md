@@ -86,12 +86,16 @@ FROM "1-Entrada"
 TABLE
 	file.name
 FROM "1-Entrada"
-WHERE file.name = "Mercar"
+FLATTEN file.lists AS L
+WHERE contains(L.tags, "#universidad")
 ```
 
 
 
 
+```dataview
+dv.pages("#universidad")
+```
 
 
 
