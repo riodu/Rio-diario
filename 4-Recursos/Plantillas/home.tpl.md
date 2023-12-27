@@ -58,7 +58,7 @@
 > > > [!info]- Inbox
 > > > ```dataview
 >>>TABLE
->>>	estado, tags
+>>>	estado, tags, momento
 >>>FROM "1-Entrada"
 >>>WHERE estado != "completado"
 >>>AND momento = "entrada"
