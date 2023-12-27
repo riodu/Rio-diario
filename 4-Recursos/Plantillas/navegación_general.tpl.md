@@ -1,6 +1,7 @@
 > [!multi-column]
 >
-> > [!sumary|float-left] [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]] 
+> > [!sumary|left] [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]] 
+> </br>
 >>> [!blank-container]
 >>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
 >>
