@@ -1,3 +1,14 @@
+
+</br>
+
+---
+# <p align="center"> <% tp.file.title %></p>
+
+---
+
+</br>
+
+
 > [!multi-column]
 >
 > > [!sumary|left] [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]] 
@@ -22,13 +33,13 @@
 >
 > > [!multi-column|pw6]
 > >
-> > > [!tldr]- Manifest
+> > > [!tldr]- Acciones
 > > > Contents
 > >
-> > > [!info]- Backlog
+> > > [!info]- Inbox
 > > > Contents
 > >
-> > > [!tip] Project
+> > > [!tip] <% tp.file.title %>
 > > > - ### Project A
 > > > 	- completed
 > > > - ### Project B
