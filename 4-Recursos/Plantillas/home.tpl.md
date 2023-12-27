@@ -77,6 +77,21 @@
 
 
 ```dataview
-LIST
+LIST file.cday
+FROM "1-Entrada"
 ```
+
+
+```dataview
+TABLE
+	file.folder AS Folder, file.etags
+FROM "1-Entrada"
+```
+
+
+
+
+
+
+
 
