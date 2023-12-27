@@ -11,7 +11,7 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[4-Recursos/Páginas/home.tpl|home.tpl]] 
+> > [!sumary|left] [[4-Recursos/Páginas/home.tpl|Home]] 
 > </br>
 >>> [!blank-container]
 >>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
@@ -72,4 +72,11 @@
 >>>>
 >>>>> [!blank-container|float-right]
 >>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/time.png) <br/> <p align="center">Sentidos</p>](4-Recursos/Páginas/Sentidos)
+
+
+
+
+```dataview
+LIST
+```
 
