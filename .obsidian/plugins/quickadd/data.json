@@ -1,37 +1,7 @@
 {
   "choices": [
     {
-      "id": "d5103d55-8a0d-4185-8ee6-5006dc157648",
-      "name": "Registro Diario",
-      "type": "Template",
-      "command": false,
-      "templatePath": "4-Recursos/Plantillas/Registro Diario.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{DATE:}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "5-Archivo/Registro/Registro Diario"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": true
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "c1714fb3-3608-4e22-bbaf-90f448ffff52",
+      "id": "085ace07-4640-4e43-b112-994516388d1f",
       "name": "Nuevo Proyecto",
       "type": "Template",
       "command": true,
@@ -55,10 +25,10 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],

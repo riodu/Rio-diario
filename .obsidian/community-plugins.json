@@ -4,7 +4,6 @@
   "calendar",
   "obsidian-style-settings",
   "buttons",
-  "quickadd",
   "homepage",
   "obsidian-icons-plugin",
   "dataview",
@@ -13,5 +12,6 @@
   "obsidian-tasks-plugin",
   "notion-like-tables",
   "multi-column-markdown",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "quickadd"
 ]

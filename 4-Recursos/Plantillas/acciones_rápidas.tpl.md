@@ -10,15 +10,20 @@ ___
 > [!multi-column]
 >
 >> [!note|wide-3]+ Acciones Rápida
->> ```button
+>> > ```button
+name Nuevo Proyecto
+type command
+action QuickAdd: Nuevo Proyecto```
+
+
+
+
+
+
+
+
+```button
 name Nuevo Proyecto
 type command
 action QuickAdd: Nuevo Proyecto
-color purple```
-
-
-<br>
-
----
-
-
+```
