@@ -59,7 +59,7 @@
 > > > Contents
 > >
 > > > [!tip] Espacios
-> > >>[!sumary|float-center] <p align="center"> Espacios </p>
+> > >>[!sumary|float-center] <p align="center"> 137 </p>
 > > >>
 >>>>> [!blank-container|float-left]
 >>>> [![lightbulb icon|80](https://img.icons8.com/ios/100/FFFFFF/pencil.png) <br/> <p align="center">Escribir </p>](4-Recursos/Páginas/Escribir)
@@ -71,5 +71,5 @@
 >>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> <p align="center">Aprender</p>](4-Recursos/Páginas/Aprender)
 >>>>
 >>>>> [!blank-container|float-right]
->>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> <p align="center">Aprender</p>](4-Recursos/Páginas/Aprender)
+>>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> <p align="center">Universidad</p>](4-Recursos/Páginas/Universidad)
 
