@@ -85,17 +85,11 @@ FROM "1-Entrada"
 ```dataview
 TABLE
 	file.name
-FROM "1-Entrada"
-FLATTEN file.lists AS L
-WHERE contains(L.tags, "#universidad")
+FROM #universidad 
+WHERE file.status = open
 ```
 
 
-
-
-```dataview
-dv.pages("#universidad")
-```
 
 
 
