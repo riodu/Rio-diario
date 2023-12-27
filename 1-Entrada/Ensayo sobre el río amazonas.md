@@ -2,7 +2,7 @@
 type: Tarea
 tags:
   - "#universidad"
-estado: ⛔
+estado: en progreso
 nombre: Ensayo sobre el río amazonas
 ---
 

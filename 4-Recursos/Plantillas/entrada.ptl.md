@@ -2,7 +2,7 @@
 type: Tarea
 tags:
   - "#proyecto"
-estado: ✅
+estado: completado
 nombre: <% tp.file.title %>
 momento: entrada
 ---

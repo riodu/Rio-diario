@@ -84,8 +84,9 @@ FROM "1-Entrada"
 
 ```dataview
 TABLE
-	folder
-FROM "2-Proyectos" 
+	nombre, type, estado, tags
+FROM "1-Entrada"
+WHERE contains(tags, "#universidad")
 ```
 
 
