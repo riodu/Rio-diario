@@ -2,7 +2,7 @@
 type: Tarea
 tags:
   - "#proyecto"
-estado: ⛔
+estado: abierto
 nombre: Mercar
 ---
 

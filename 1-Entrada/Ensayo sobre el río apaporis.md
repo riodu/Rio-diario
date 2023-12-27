@@ -2,7 +2,7 @@
 type: Tarea
 tags:
   - "#universidad"
-estado: ✅
+estado: completado
 nombre: Ensayo sobre el río apaporis
 ---
 
