@@ -3,7 +3,7 @@ type: Tarea
 tags:
   - "#proyecto"
 estado: pendiente
-nombre: <% tp.file.title %>
+nombre: Ir al museo de Antioquia
 momento: entrada
 ---
 

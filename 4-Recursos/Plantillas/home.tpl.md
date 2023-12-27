@@ -23,7 +23,7 @@
 >>> `ris:ContrastDrop2` [[Áreas]]
 >>
 >>> [!blank-container]
->>> `ris:Inbox` [[Inbox]]
+>>> `ris:Inbox` [[Entradas]]
 >>
 >>> [!blank-container]
 >>> `ris:Database2` [[Recursos]]
@@ -56,7 +56,13 @@
 >>> ```
 > >
 > > > [!info]- Inbox
-> > > Contents
+> > > ```dataview
+>>>TABLE
+>>>	estado, tags
+>>>FROM "1-Entrada"
+>>>WHERE estado != "completado"
+>>>AND momento = "entrada"
+>>>```
 > >
 > > > [!tip] Espacios
 > > >>[!sumary|float-center] <p align="center"> 137 </p>
@@ -76,26 +82,10 @@
 
 
 
-```dataview
-LIST file.cday
-FROM "1-Entrada"
-```
-
-
-```dataview
-TABLE
-	nombre, type, estado, tags
-FROM "1-Entrada"
-WHERE contains(tags, "#universidad")
-```
 
 
 
-Literal (date) date(yesterday) used in a comparison 
-```dataview
-TASK
-WHERE !completed AND file.day = date(yesterday) 
-```
+
 
 
 
