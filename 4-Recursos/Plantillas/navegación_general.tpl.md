@@ -34,11 +34,26 @@
 > > [!multi-column|pw6]
 > >
 > > > [!tldr]- Acciones
-> > > ```button
-name Nuevo Proyecto
-type command
-action QuickAdd: Nuevo Proyecto
-color purple```
+>>> ```button
+>>> name Nueva Entrada
+>>>type command
+>>> action QuickAdd: Nueva Entrada
+>>> ```
+>>>```button
+>>> name Nueva Área
+>>>type command
+>>> action QuickAdd: Nueva Área
+>>> ```
+>>>```button
+>>> name Nuevo Recurso
+>>>type command
+>>> action QuickAdd: Nuevo Recurso
+>>> ```
+>>>```button
+>>> name Nuevo Proyecto
+>>>type command
+>>> action QuickAdd: Nuevo Proyecto
+>>> ```
 > >
 > > > [!info]- Inbox
 > > > Contents

@@ -35,17 +35,19 @@
       "name": "Nueva Área",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "4-Recursos/Plantillas/área.ptl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "3-Áreas"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "chooseFromSubfolders": true
       },
       "appendLink": false,
       "openFileInNewTab": {
@@ -53,27 +55,29 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     },
     {
       "id": "c0a6684f-68a5-43e5-8fa0-51ac70209494",
       "name": "Nuevo Recurso",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "4-Recursos/Plantillas/recurso.ptl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "4-Recursos"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "chooseFromSubfolders": true
       },
       "appendLink": false,
       "openFileInNewTab": {
@@ -81,27 +85,27 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     },
     {
       "id": "042bbb44-1c48-4ddb-ba87-39dcef737982",
       "name": "Nueva Entrada",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "4-Recursos/Plantillas/entrada.ptl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "chooseFromSubfolders": true
       },
       "appendLink": false,
       "openFileInNewTab": {
@@ -109,10 +113,10 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],
