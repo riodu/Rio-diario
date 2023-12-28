@@ -1,5 +1,5 @@
 ---
-type: Tarea
+type: Proyecto
 tags:
   - "#universidad"
 estado: completado

@@ -56,10 +56,18 @@
 >>> ```
 > >
 > > > [!info]- Inbox
-> > > Contents
+> > > ```dataview
+>>>TABLE
+>>>	estado, tags, momento
+>>>FROM "<% tp.file.folder(relative=false)%>"
+>>>WHERE type = "<% tp.file.title %>"
+>>>```
 > >
 > > > [!tip] <% tp.file.title %>
 > > > - ### Project A
 > > > 	- completed
 > > > - ### Project B
 > > > 	- ongoing
+
+
+
