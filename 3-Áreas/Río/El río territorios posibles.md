@@ -13,6 +13,9 @@
 >
 >>[!sumary]+ Objetivos
 >>![[Pasted image 20231228124257.png]]
+>
+>>[!sumary]+ Acciones
+>>![[Pasted image 20231228125304.png]]
 
 
 
