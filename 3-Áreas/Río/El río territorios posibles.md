@@ -6,7 +6,7 @@
 
 
 
->[!sumary]+ Bases del proyecto en imágenes
+>[!sumary]+ Bases del proyecto
 >
 >>[!sumary]+ Presentación
 >>![[Pasted image 20231228123315.png]]
@@ -18,6 +18,9 @@
 >>![[Pasted image 20231228125304.png]]
 >
 >>[!sumary]+ Líneas conceptuales
+>> ![[Pasted image 20231228131713.png]]
+>
+>>[!sumary]+ Recursos e información adicional
 >> ![[Pasted image 20231228131713.png]]
 
 
