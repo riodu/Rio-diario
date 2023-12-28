@@ -1,9 +1,9 @@
 
 
 
->[!multi-column|center|no-margin pw3]
+>[!multi-column]
 >
->>[!sumary]+ Imagen
+>>[!sumary]+ Presentación
 >>![[Pasted image 20231228123315.png]]
 
 
