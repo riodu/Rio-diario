@@ -1,7 +1,6 @@
 [
   "obsidian-plugin-groups",
   "obsidian-git",
-  "calendar",
   "obsidian-style-settings",
   "buttons",
   "homepage",
@@ -16,5 +15,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-full-calendar",
   "obsidian-tasks-plugin",
-  "google-calendar"
+  "google-calendar",
+  "calendar"
 ]
