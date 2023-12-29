@@ -11,7 +11,7 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[4-Recursos/Páginas/home.tpl|Home]] 
+> > [!sumary|left] [[4-Recursos/Páginas/Home|Home]] 
 > </br>
 >>> [!blank-container]
 >>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
