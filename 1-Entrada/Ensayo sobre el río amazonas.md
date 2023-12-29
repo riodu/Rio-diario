@@ -17,13 +17,16 @@ view: week
 
 
 
+
+
+
+
 ```gEvent
-type: day
+type: week
 navigation: true
 showAllDay: true
-hourRange: [0, 17]
+hourRange: [0, 24]
 offset: 0
 include: ["Personal"]
+timespan: 3
 ```
-
-
