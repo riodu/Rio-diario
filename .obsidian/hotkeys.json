@@ -42,5 +42,13 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

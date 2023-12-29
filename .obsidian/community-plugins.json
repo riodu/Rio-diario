@@ -9,11 +9,12 @@
   "dataview",
   "obsidian42-brat",
   "templater-obsidian",
-  "obsidian-tasks-plugin",
   "notion-like-tables",
   "multi-column-markdown",
   "obsidian-book-search-plugin",
   "quickadd",
   "obsidian-emoji-toolbar",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "obsidian-tasks-plugin",
+  "sync-google-calendar"
 ]
