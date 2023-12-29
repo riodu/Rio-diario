@@ -2,8 +2,8 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#54b07c",
-      "directory": "Registro/Calendario"
+      "color": "rgb(249,224,147)",
+      "directory": "/"
     }
   ],
   "defaultCalendar": 0,

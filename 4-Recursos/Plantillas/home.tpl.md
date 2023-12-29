@@ -79,13 +79,12 @@
 >>>>> [!blank-container|float-right]
 >>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/time.png) <br/> <p align="center">Sentidos</p>](4-Recursos/Páginas/Sentidos)
 
+</br>
+
+---
+
+</br>
 
 
-
-
-
-
-
-
-
+<% tp.config. %>
 
