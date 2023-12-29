@@ -1,12 +1,4 @@
 
-
-
-
-___
-
-<br>
-
-
 > [!multi-column]
 >
 >> [!note|wide-3]+ Acciones Rápida
@@ -30,3 +22,4 @@ ___
 >>type command
 >> action QuickAdd: Nuevo Proyecto
 >> ```
+>>
