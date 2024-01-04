@@ -20,13 +20,3 @@ view: week
 
 
 
-
-```gEvent
-type: week
-navigation: true
-showAllDay: true
-hourRange: [0, 24]
-offset: 0
-include: ["Personal"]
-timespan: 3
-```
