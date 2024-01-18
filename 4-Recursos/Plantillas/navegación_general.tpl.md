@@ -57,7 +57,7 @@
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
->>>FROM "<% tp.file.folder(relative=false)%>"
+>>>FROM "1-Entrada"
 >>>WHERE moment = "<% tp.file.title %>"
 >>>```
 > >
