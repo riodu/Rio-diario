@@ -11,10 +11,8 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[4-Recursos/Páginas/Home|Home]] 
+> > [!sumary|left] [[Home]]
 > </br>
->>> [!blank-container]
->>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
 >>
 >>> [!blank-container]
 >>> `ris:Inbox` [[Entradas]]
