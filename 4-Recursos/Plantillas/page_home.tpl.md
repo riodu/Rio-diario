@@ -8,6 +8,15 @@
 
 </br>
 
+>> [!info]- Inbox
+> > > ```dataview
+>>>TABLE
+>>>	estado, tags, momento
+>>>FROM "1-Entrada"
+>>>WHERE estado != "completado"
+>>>AND momento = "entrada"
+>>>```
+> >
 
 > [!multi-column]
 >
@@ -53,7 +62,7 @@
 >>> action QuickAdd: Nuevo Proyecto
 >>> ```
 > >
-> > > [!info]- Inbox
+> > > [!info]- Recordatorios
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
