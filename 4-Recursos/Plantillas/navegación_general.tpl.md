@@ -62,10 +62,12 @@
 >>>```
 > >
 > > > [!tip] <% tp.file.title %>
-> > > - ### Project A
-> > > 	- completed
-> > > - ### Project B
-> > > 	- ongoing
+> > > ```dataview
+>>>TABLE
+>>>	estado, tags, momento
+>>>FROM "<% tp.file.folder(relative=false)%>"
+>>>WHERE moment = "<% tp.file.title %>"
+>>>```
 
 
 

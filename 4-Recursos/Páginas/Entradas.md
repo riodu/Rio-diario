@@ -62,10 +62,12 @@
 >>>```
 > >
 > > > [!tip] Entradas
-> > > - ### Project A
-> > > 	- completed
-> > > - ### Project B
-> > > 	- ongoing
+> > > ```dataview
+>>>TABLE
+>>>	estado, tags, momento
+>>>FROM "Páginas"
+>>>WHERE moment = "Entradas"
+>>>```
 
 
 
