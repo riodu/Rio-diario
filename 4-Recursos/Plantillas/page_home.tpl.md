@@ -8,7 +8,7 @@
 
 </br>
 
->> [!info]- Inbox
+>> [!info]- Entradas
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
