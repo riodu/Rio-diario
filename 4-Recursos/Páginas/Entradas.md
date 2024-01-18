@@ -57,7 +57,7 @@
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
->>>FROM "Páginas"
+>>>FROM "1-Entrada"
 >>>WHERE moment = "Entradas"
 >>>```
 > >
