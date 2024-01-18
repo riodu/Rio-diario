@@ -15,13 +15,13 @@
 > </br>
 >>
 >>> [!blank-container]
->>> `ris:Folder2` [[Proyectos]]
+>>> `ris:Folder2` [[Entradas]]
 >>
 >>> [!blank-container]
->>> `ris:ContrastDrop2` [[Áreas]]
+>>> `ris:ContrastDrop2` [[Proyectos]]
 >>
 >>> [!blank-container]
->>> `ris:Inbox` [[Entradas]]
+>>> `ris:Inbox` [[Áreas]]
 >>
 >>> [!blank-container]
 >>> `ris:Database2` [[Recursos]]
@@ -53,12 +53,12 @@
 >>> action QuickAdd: Nuevo Proyecto
 >>> ```
 > >
-> > > [!info]- Inbox
+> > > [!info]- Entradas
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
 >>>FROM "<% tp.file.folder(relative=false)%>"
->>>WHERE type = "<% tp.file.title %>"
+>>>WHERE moment = "<% tp.file.title %>"
 >>>```
 > >
 > > > [!tip] <% tp.file.title %>
