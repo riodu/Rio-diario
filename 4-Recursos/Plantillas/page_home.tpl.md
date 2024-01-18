@@ -13,8 +13,6 @@
 >
 > > [!sumary|left] [[4-Recursos/Páginas/home.tpl|Home]] 
 > </br>
->>> [!blank-container]
->>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
 >>
 >>> [!blank-container]
 >>> `ris:Inbox` [[Entradas]]
@@ -85,6 +83,4 @@
 
 </br>
 
-
-<% tp.config. %>
 
