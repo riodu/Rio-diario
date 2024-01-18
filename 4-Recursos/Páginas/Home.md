@@ -11,7 +11,7 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[Home]]
+> > [!sumary|left] [[Home]] 
 > </br>
 >>
 >>> [!blank-container]
@@ -56,7 +56,7 @@
 > > > [!info]- Inbox
 > > > ```dataview
 >>>TABLE
->>>	estado, tags
+>>>	estado, tags, momento
 >>>FROM "1-Entrada"
 >>>WHERE estado != "completado"
 >>>AND momento = "entrada"
@@ -77,13 +77,10 @@
 >>>>> [!blank-container|float-right]
 >>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/time.png) <br/> <p align="center">Sentidos</p>](4-Recursos/Páginas/Sentidos)
 
+</br>
 
+---
 
-
-
-
-
-
-
+</br>
 
 

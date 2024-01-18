@@ -11,7 +11,7 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[4-Recursos/Páginas/home.tpl|Home]] 
+> > [!sumary|left] [[Home]] 
 > </br>
 >>
 >>> [!blank-container]
