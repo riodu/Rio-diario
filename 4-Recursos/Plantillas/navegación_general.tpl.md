@@ -11,10 +11,8 @@
 
 > [!multi-column]
 >
-> > [!sumary|left] [[4-Recursos/Páginas/<% tp.file.title %>|<% tp.file.title %>]] 
+> > [!sumary|left]  [[4-Recursos/Páginas/Home|Home]]
 > </br>
->>> [!blank-container]
->>> `ris:Home7` [[4-Recursos/Páginas/Home|Home]]
 >>
 >>> [!blank-container]
 >>> `ris:Folder2` [[Proyectos]]
@@ -23,7 +21,7 @@
 >>> `ris:ContrastDrop2` [[Áreas]]
 >>
 >>> [!blank-container]
->>> `ris:Inbox` [[Inbox]]
+>>> `ris:Inbox` [[Entradas]]
 >>
 >>> [!blank-container]
 >>> `ris:Database2` [[Recursos]]
