@@ -13,7 +13,7 @@
 >>TABLE
 >>	estado, tags, momento
 >>FROM "1-Entrada"
->>WHERE estado != "completado"
+>>WHERE estado = "Pendiente"
 >>AND momento = "Entrada"
 >>```
 >
@@ -78,6 +78,13 @@
 >>>WHERE momento = "Entrada"
 >>>AND estado = "Andando"
 >>>```
+
+</br>
+
+---
+
+</br>
+
 
 
 

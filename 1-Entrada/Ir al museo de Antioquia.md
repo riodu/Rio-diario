@@ -2,7 +2,7 @@
 type: Tarea
 tags:
   - "#proyecto"
-estado: pendiente
+estado: Pendiente
 nombre: Ir al museo de Antioquia
 momento: Entrada
 ---

@@ -13,7 +13,7 @@
 >>TABLE
 >>	estado, tags, momento
 >>FROM "1-Entrada"
->>WHERE estado != "completado"
+>>WHERE estado != "Completado"
 >>AND momento = "Entrada"
 >>```
 >>
