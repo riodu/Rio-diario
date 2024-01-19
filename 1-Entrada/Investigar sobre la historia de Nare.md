@@ -5,6 +5,6 @@ tags:
   - universidad
 estado: pendiente
 nombre: Investigar sobre la historia de Nare
-momento: " Entrada"
+momento: Entrada
 ---
 

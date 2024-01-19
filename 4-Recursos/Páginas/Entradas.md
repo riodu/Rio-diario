@@ -67,7 +67,7 @@
 >>>TABLE
 >>>	estado, tags, momento
 >>>FROM "1-Entrada"
->>>WHERE moment = "Entradas"
+>>>WHERE moment = "Entrada"
 >>>```
 > >
 > > > [!tip] Entradas
@@ -75,7 +75,8 @@
 >>>TABLE
 >>>	estado, tags, momento
 >>>FROM "1-Entrada"
->>>WHERE momento = "Entradas"
+>>>WHERE momento = "Entrada"
+>>>AND estado = "Andando"
 >>>```
 
 

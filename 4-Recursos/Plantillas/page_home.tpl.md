@@ -14,7 +14,7 @@
 >>	estado, tags, momento
 >>FROM "1-Entrada"
 >>WHERE estado != "completado"
->>AND momento = "entrada"
+>>AND momento = "Entrada"
 >>```
 >>
 

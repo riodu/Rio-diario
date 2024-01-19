@@ -4,6 +4,6 @@ tags:
   - "#universidad"
 estado: completado
 nombre: Ensayo sobre el río apaporis
-momento: " Entrada"
+momento: Entrada
 ---
 

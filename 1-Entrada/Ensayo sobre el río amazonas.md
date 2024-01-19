@@ -2,9 +2,9 @@
 type: Tarea
 tags:
   - "#universidad"
-estado: enprogreso
+estado: Andando
 nombre: Ensayo sobre el río amazonas
-momento: " Entrada"
+momento: Entrada
 ---
 
 

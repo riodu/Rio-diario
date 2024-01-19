@@ -76,6 +76,7 @@
 >>>	estado, tags, momento
 >>>FROM "<% tp.file.folder(relative=false)%>"
 >>>WHERE moment = "<% tp.file.title %>"
+>>>AND estado = "Andando"
 >>>```
 
 
