@@ -4,6 +4,6 @@ tags:
   - "#proyecto"
 estado: pendiente
 nombre: Ir al museo de Antioquia
-momento: entrada
+momento: " Entrada"
 ---
 

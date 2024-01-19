@@ -8,6 +8,15 @@
 
 </br>
 
+> [!info]- Pendientes
+> > ```dataview
+>>TABLE
+>>	estado, tags, momento
+>>FROM "1-Entrada"
+>>WHERE estado != "completado"
+>>AND momento = "Entrada"
+>>```
+>
 
 > [!multi-column]
 >
@@ -53,7 +62,7 @@
 >>> action QuickAdd: Nuevo Proyecto
 >>> ```
 > >
-> > > [!info]- Entradas
+> > > [!info]- Recordatorios
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
@@ -65,8 +74,8 @@
 > > > ```dataview
 >>>TABLE
 >>>	estado, tags, momento
->>>FROM "Páginas"
->>>WHERE moment = "Entradas"
+>>>FROM "1-Entrada"
+>>>WHERE momento = "Entradas"
 >>>```
 
 
