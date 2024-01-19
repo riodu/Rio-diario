@@ -2,15 +2,13 @@
 > [!multi-column]
 >
 >> [!note|wide-3]+ Acciones Rápida
->
->> [!note] 
+>>> [!blank-container] 
 >> ```button
 >> name Nueva Entrata
 >>type command
 >> action QuickAdd: Nueva Entrada
 >> ```
->
->> [!note] 
+>>> [!blank-container] 
 >>```button
 >> name Nueva Área
 >>type command
