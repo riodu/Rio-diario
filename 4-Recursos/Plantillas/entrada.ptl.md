@@ -1,9 +1,9 @@
 ---
+name: <% tp.file.title %>
 type: Tarea
 tags:
   - "#proyecto"
-estado: pendiente
-nombre: <% tp.file.title %>
+status: Pendiente
 momento: entrada
 ---
 
