@@ -31,12 +31,14 @@
 
 
 
-> [!question]+ Can callouts be nested?
->> [!todo|wide-4] Yes!, they can. 
->>> [!example] You can even use multiple layers of nesting.
->>
->>> [!example] You can even use multiple layers of nesting.
->>
->>> [!example] You can even use multiple layers of nesting.
->>
->>> [!example] You can even use multiple layers of nesting.
+> > > [!tip] Espacios
+> > >>[!sumary|float-center] <p align="center"> 137 </p>
+>>>>> [!blank-container|float-left]
+>>>> 
+>>>>> [!blank-container|float-left]
+>>>>
+>>>>> [!blank-container|float-right]
+>>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/book.png) <br/> <p align="center">Aprender</p>](4-Recursos/Páginas/Aprender)
+>>>>
+>>>>> [!blank-container|float-right]
+>>>> [![brain icon|80](https://img.icons8.com/ios/250/FFFFFF/time.png) <br/> <p align="center">Sentidos</p>](4-Recursos/Páginas/Sentidos)
