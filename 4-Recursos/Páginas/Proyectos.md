@@ -75,8 +75,7 @@
 >>>TABLE
 >>>	estado, tags, momento
 >>>FROM "2-Proyectos"
->>>WHERE contains(tags, "#proyecto")
->>>AND estado = "Andando"
+>>>WHERE estado = "Andando"
 >>>```
 
 </br>
