@@ -12,7 +12,7 @@
 > > ```dataview
 >>TABLE
 >>	status AS Estado, tags AS Tags, type AS Tipo
->>FROM ("1-Entrada","2-Proyecto")
+>>FROM ["1-Entrada","2-Proyecto"]
 >>WHERE status != "Completado"
 >>```
 >>
