@@ -4,5 +4,6 @@ status: Pendiente
 type: Proyecto
 tags:
   - proyecto
+priority:
 ---
 
