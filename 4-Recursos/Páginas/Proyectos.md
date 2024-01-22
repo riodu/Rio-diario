@@ -15,7 +15,7 @@
 >>FROM "2-Proyectos" or #proyecto 
 >>WHERE status = "Pendiente"
 >>AND type = "Proyecto"
->>AND name != "p"
+>>AND name != "<% tp.file.title %>"
 >>```
 >
 
@@ -75,8 +75,9 @@
 > > > ```dataview
 >>>TABLE
 >>>	status AS Estado, tags AS Tags, type AS Tipo
->>>FROM "2-Proyectos"
+>>>FROM "2-Proyectos" or #proyecto 
 >>>WHERE status = "Andando"
+>>>AND name != "<% tp.file.title %>"
 >>>```
 
 </br>
