@@ -11,7 +11,7 @@
 > [!info]- Pendientes
 > > ```dataview
 >>TABLE
->>	estado, tags, momento
+>>	estado AS Estado, tags AS Tags, momento AS Momento
 >>FROM "1-Entrada"
 >>WHERE estado != "Completado"
 >>AND momento = "Entrada"
