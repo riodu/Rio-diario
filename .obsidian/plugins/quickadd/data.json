@@ -5,7 +5,7 @@
       "name": "Nuevo Proyecto",
       "type": "Template",
       "command": true,
-      "templatePath": "4-Recursos/Plantillas/proyecto.tpl.md",
+      "templatePath": "4-Recursos/Plantillas/Notas/proyecto.tpl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -35,7 +35,7 @@
       "name": "Nueva Área",
       "type": "Template",
       "command": true,
-      "templatePath": "4-Recursos/Plantillas/área.ptl.md",
+      "templatePath": "4-Recursos/Plantillas/Notas/área.ptl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -65,7 +65,7 @@
       "name": "Nuevo Recurso",
       "type": "Template",
       "command": true,
-      "templatePath": "4-Recursos/Plantillas/recurso.ptl.md",
+      "templatePath": "4-Recursos/Plantillas/Notas/recurso.ptl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -95,7 +95,7 @@
       "name": "Nueva Entrada",
       "type": "Template",
       "command": true,
-      "templatePath": "4-Recursos/Plantillas/entrada.ptl.md",
+      "templatePath": "4-Recursos/Plantillas/Notas/entrada.ptl.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

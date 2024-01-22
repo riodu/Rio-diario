@@ -11,10 +11,10 @@
 > [!info]- Pendientes
 > > ```dataview
 >>TABLE
->>	estado, tags, momento
+>>	status AS Estado, tags AS Tags, type AS Tipo
 >>FROM "1-Entrada"
->>WHERE estado != "Completado"
->>AND tags = "proyecto"
+>>WHERE status = "Pendiente"
+>>AND type = "Proyecto"
 >>```
 >
 
@@ -73,9 +73,9 @@
 > > > [!tip] Proyectos
 > > > ```dataview
 >>>TABLE
->>>	estado, tags, momento
+>>>	status AS Estado, tags AS Tags, type AS Tipo
 >>>FROM "2-Proyectos"
->>>WHERE estado = "Andando"
+>>>WHERE status = "Andando"
 >>>```
 
 </br>
