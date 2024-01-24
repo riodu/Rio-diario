@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"a56c0eb51a8d0999","type":"group","x":-280,"y":520,"width":660,"height":340,"label":"PARA"},
+		{"id":"a56c0eb51a8d0999","type":"group","x":-280,"y":520,"width":660,"height":340,"label":"PARA(NOTION)"},
 		{"id":"a66bcad99775435f","type":"group","x":-280,"y":920,"width":400,"height":400,"label":"Zettelkasten "},
-		{"id":"5b3d3d2dee097ad3","type":"group","x":800,"y":50,"width":400,"height":400,"label":"Artículos"},
+		{"id":"5b3d3d2dee097ad3","type":"group","x":760,"y":0,"width":400,"height":400,"label":"Artículos"},
 		{"id":"b744761519478f74","type":"group","x":-820,"y":520,"width":440,"height":340,"label":"Flujos de revisión"},
 		{"id":"46d4dbc024b68add","type":"group","x":-280,"y":80,"width":300,"height":340,"label":"CODE"},
 		{"id":"3273f5906ec73890","type":"text","text":"Express (Expresar)","x":-260,"y":340,"width":250,"height":50},
@@ -10,8 +10,6 @@
 		{"id":"3a1cd8d1879c0662","type":"text","text":"Distill (Destilar, depurarr)","x":-260,"y":260,"width":250,"height":50},
 		{"id":"33b2cdf531c4e8bf","type":"text","text":"Capture (Capturar)","x":-260,"y":100,"width":250,"height":50},
 		{"id":"c8bf8a859ca30832","type":"text","text":"Semanal - Mensual","x":-780,"y":540,"width":250,"height":50},
-		{"id":"22641a61c115a3e0","type":"link","url":"https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/#how-i-use-basb-myself","x":820,"y":70,"width":200,"height":50},
-		{"id":"12e56991734059f3","type":"link","url":"https://fortelabs.com/blog/basboverview/","x":820,"y":150,"width":200,"height":50},
 		{"id":"3ed355ba75a42430","type":"text","text":"Áreas","x":-240,"y":620,"width":250,"height":50},
 		{"id":"16d27db4be9bf8cd","type":"text","text":"Recursos","x":-240,"y":700,"width":250,"height":50},
 		{"id":"c92eee2f88935e1c","type":"text","text":"Archivos","x":-240,"y":780,"width":250,"height":50},
@@ -20,7 +18,9 @@
 		{"id":"c1a9ca00cac821a1","type":"text","text":"Archivos","x":-780,"y":780,"width":250,"height":50},
 		{"id":"2898485679f9f186","type":"text","text":"Recoger -> Revisiar -> Buscar -> Mover -> Crear","x":-800,"y":620,"width":400,"height":50},
 		{"id":"2a6ea8add5139055","type":"file","file":"Adjuntos/Pasted image 20231223165803.png","x":-140,"y":980,"width":220,"height":244},
-		{"id":"c0a23c9400894bce","type":"file","file":"Adjuntos/Pasted image 20231223155421.png","x":40,"y":565,"width":289,"height":234}
+		{"id":"c0a23c9400894bce","type":"file","file":"Adjuntos/Pasted image 20231223155421.png","x":40,"y":565,"width":289,"height":234},
+		{"id":"22641a61c115a3e0","type":"link","url":"https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/#how-i-use-basb-myself","x":780,"y":20,"width":200,"height":50},
+		{"id":"12e56991734059f3","type":"link","url":"https://fortelabs.com/blog/basboverview/","x":780,"y":100,"width":200,"height":50}
 	],
 	"edges":[
 		{"id":"638a13d625b6a768","fromNode":"33b2cdf531c4e8bf","fromSide":"bottom","toNode":"f6afa438c52742e1","toSide":"top"},
