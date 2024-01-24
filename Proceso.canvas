@@ -1,9 +1,11 @@
 {
 	"nodes":[
+		{"id":"af5bc274f5c68117","type":"group","x":-280,"y":980,"width":980,"height":1000,"label":"Notas (Obsidian)"},
+		{"id":"36bd80c84f4653d5","type":"group","x":-240,"y":1120,"width":400,"height":720,"label":"Escritura"},
 		{"id":"a56c0eb51a8d0999","type":"group","x":-280,"y":460,"width":660,"height":400,"label":"PARA(NOTION)"},
-		{"id":"af5bc274f5c68117","x":-280,"y":960,"width":660,"height":400,"type":"group","label":"Notas (Obsidian)"},
 		{"id":"a66bcad99775435f","type":"group","x":-780,"y":960,"width":400,"height":400,"label":"Zettelkasten "},
 		{"id":"5b3d3d2dee097ad3","type":"group","x":760,"y":0,"width":400,"height":400,"label":"Artículos"},
+		{"id":"a6178ed2d11ed403","type":"group","x":250,"y":1120,"width":400,"height":400,"label":"Lectura"},
 		{"id":"b744761519478f74","type":"group","x":-820,"y":520,"width":440,"height":340,"label":"Flujos de revisión"},
 		{"id":"46d4dbc024b68add","type":"group","x":-280,"y":80,"width":300,"height":340,"label":"CODE"},
 		{"id":"3273f5906ec73890","type":"text","text":"Express (Expresar)","x":-260,"y":340,"width":250,"height":50},
@@ -22,13 +24,20 @@
 		{"id":"22641a61c115a3e0","type":"link","url":"https://zettelkasten.de/posts/building-a-second-brain-and-zettelkasten/#how-i-use-basb-myself","x":780,"y":20,"width":200,"height":50},
 		{"id":"12e56991734059f3","type":"link","url":"https://fortelabs.com/blog/basboverview/","x":780,"y":100,"width":200,"height":50},
 		{"id":"2a6ea8add5139055","type":"file","file":"Adjuntos/Pasted image 20231223165803.png","x":-640,"y":1020,"width":220,"height":244},
-		{"id":"a03ff756d4bf74cd","x":-115,"y":540,"width":95,"height":50,"type":"text","text":"Tarea"},
+		{"id":"a03ff756d4bf74cd","type":"text","text":"Tarea","x":-115,"y":540,"width":95,"height":50},
 		{"id":"b00bf2cc1ffc46ad","type":"text","text":"Notas","x":-140,"y":700,"width":120,"height":50},
 		{"id":"b84cb75fddc24b14","type":"text","text":"NoteBooks","x":-140,"y":780,"width":150,"height":50},
 		{"id":"44b53209b476ab42","type":"text","text":"Topics","x":-140,"y":620,"width":100,"height":50},
-		{"id":"fb2f758786b7be9d","x":-100,"y":480,"width":325,"height":50,"type":"text","text":"Para registro general de la vida"},
-		{"id":"f38ccd24711d01a6","type":"text","text":"Para ahondar en el saber a través de la escritura","x":-150,"y":970,"width":425,"height":50},
-		{"id":"4ca6234454eead22","x":-240,"y":1040,"width":175,"height":50,"type":"text","text":"Pescado()"}
+		{"id":"fb2f758786b7be9d","type":"text","text":"Para registro general de la vida","x":-100,"y":480,"width":325,"height":50},
+		{"id":"f38ccd24711d01a6","type":"text","text":"Para ahondar en el saber a través de la escritura","x":-150,"y":990,"width":425,"height":50},
+		{"id":"4ca6234454eead22","type":"text","text":"Idea","x":-220,"y":1142,"width":175,"height":50},
+		{"id":"eeb3f57bce3a78c3","type":"text","text":"Pescado()","x":275,"y":1142,"width":175,"height":50},
+		{"id":"88843729bf2a61a0","type":"text","text":"Vomitivo","x":-220,"y":1278,"width":175,"height":50},
+		{"id":"68daad0ebedf6dea","type":"text","text":"Reecrituras\n\t- 1\n\t- 2\n\t- 3","x":-220,"y":1346,"width":175,"height":120},
+		{"id":"d7e39a1053f0a74b","type":"text","text":"Borradores\t\n\t- 1\n\t- 2\n\t- 3","x":-220,"y":1484,"width":175,"height":120},
+		{"id":"ffc3d946adc651cd","type":"text","text":"Terminado ¿?\n\t- Lectura 1\n\t- Lectura 2\n\t- Lectura 3","x":-220,"y":1622,"width":175,"height":120},
+		{"id":"765b8ad6bec1ad35","type":"text","text":"Investigación","x":-220,"y":1210,"width":175,"height":50},
+		{"id":"3d79e9ba080452d9","type":"text","text":"Compartir","x":-220,"y":1760,"width":175,"height":50}
 	],
 	"edges":[
 		{"id":"638a13d625b6a768","fromNode":"33b2cdf531c4e8bf","fromSide":"bottom","toNode":"f6afa438c52742e1","toSide":"top"},
