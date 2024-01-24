@@ -4,6 +4,8 @@ status: Pendiente
 type: Proyecto
 tags:
   - proyecto
-priority:
+priority: 
+roots: 
+area:
 ---
 

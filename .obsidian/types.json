@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Agregado": "date",
-    "priority": "number"
+    "priority": "number",
+    "root": "multitext",
+    "area": "multitext"
   }
 }
