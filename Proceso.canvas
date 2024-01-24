@@ -3,9 +3,9 @@
 		{"id":"af5bc274f5c68117","type":"group","x":-280,"y":980,"width":980,"height":1000,"label":"Notas (Obsidian)"},
 		{"id":"36bd80c84f4653d5","type":"group","x":-240,"y":1120,"width":400,"height":720,"label":"Escritura"},
 		{"id":"a56c0eb51a8d0999","type":"group","x":-280,"y":460,"width":660,"height":400,"label":"PARA(NOTION)"},
+		{"id":"a6178ed2d11ed403","type":"group","x":210,"y":1120,"width":400,"height":622,"label":"Lectura"},
 		{"id":"a66bcad99775435f","type":"group","x":-780,"y":960,"width":400,"height":400,"label":"Zettelkasten "},
 		{"id":"5b3d3d2dee097ad3","type":"group","x":760,"y":0,"width":400,"height":400,"label":"Artículos"},
-		{"id":"a6178ed2d11ed403","type":"group","x":250,"y":1120,"width":400,"height":400,"label":"Lectura"},
 		{"id":"b744761519478f74","type":"group","x":-820,"y":520,"width":440,"height":340,"label":"Flujos de revisión"},
 		{"id":"46d4dbc024b68add","type":"group","x":-280,"y":80,"width":300,"height":340,"label":"CODE"},
 		{"id":"3273f5906ec73890","type":"text","text":"Express (Expresar)","x":-260,"y":340,"width":250,"height":50},
@@ -30,18 +30,26 @@
 		{"id":"44b53209b476ab42","type":"text","text":"Topics","x":-140,"y":620,"width":100,"height":50},
 		{"id":"fb2f758786b7be9d","type":"text","text":"Para registro general de la vida","x":-100,"y":480,"width":325,"height":50},
 		{"id":"4ca6234454eead22","type":"text","text":"Idea","x":-220,"y":1142,"width":175,"height":50},
-		{"id":"eeb3f57bce3a78c3","type":"text","text":"Pescado()","x":275,"y":1142,"width":175,"height":50},
 		{"id":"88843729bf2a61a0","type":"text","text":"Vomitivo","x":-220,"y":1278,"width":175,"height":50},
 		{"id":"68daad0ebedf6dea","type":"text","text":"Reecrituras\n\t- 1\n\t- 2\n\t- 3","x":-220,"y":1346,"width":175,"height":120},
 		{"id":"d7e39a1053f0a74b","type":"text","text":"Borradores\t\n\t- 1\n\t- 2\n\t- 3","x":-220,"y":1484,"width":175,"height":120},
 		{"id":"ffc3d946adc651cd","type":"text","text":"Terminado ¿?\n\t- Lectura 1\n\t- Lectura 2\n\t- Lectura 3","x":-220,"y":1622,"width":175,"height":120},
 		{"id":"765b8ad6bec1ad35","type":"text","text":"Investigación","x":-220,"y":1210,"width":175,"height":50},
 		{"id":"3d79e9ba080452d9","type":"text","text":"Compartir","x":-220,"y":1760,"width":175,"height":50},
-		{"id":"f38ccd24711d01a6","type":"text","text":"Para ahondar en el saber a través de la escritura","x":0,"y":1020,"width":425,"height":50}
+		{"id":"f38ccd24711d01a6","type":"text","text":"Para ahondar en el saber a través de la escritura","x":0,"y":1020,"width":425,"height":50},
+		{"id":"eeb3f57bce3a78c3","type":"text","text":"Lance","x":235,"y":1142,"width":175,"height":50},
+		{"id":"caf8dd012ed23cb3","type":"text","text":"Pescado","x":235,"y":1214,"width":175,"height":50},
+		{"id":"7e42d876c35df552","type":"text","text":"Arreglado","x":235,"y":1296,"width":175,"height":50},
+		{"id":"7e2b580e80399113","type":"text","text":"Limpiado/Juagado","x":235,"y":1360,"width":205,"height":58},
+		{"id":"c6a33dc7bbd77b1c","type":"text","text":"Cocinado","x":235,"y":1434,"width":175,"height":50},
+		{"id":"55d96e17b5c6a0c5","type":"text","text":"Comido","x":235,"y":1506,"width":175,"height":50},
+		{"id":"18a2fbaa1bd5a674","type":"text","text":"Digerido","x":235,"y":1579,"width":175,"height":50}
 	],
 	"edges":[
 		{"id":"638a13d625b6a768","fromNode":"33b2cdf531c4e8bf","fromSide":"bottom","toNode":"f6afa438c52742e1","toSide":"top"},
 		{"id":"fd53dcacb46a8a6d","fromNode":"f6afa438c52742e1","fromSide":"bottom","toNode":"3a1cd8d1879c0662","toSide":"top"},
-		{"id":"b9f317af0a3aae58","fromNode":"3a1cd8d1879c0662","fromSide":"bottom","toNode":"3273f5906ec73890","toSide":"top"}
+		{"id":"b9f317af0a3aae58","fromNode":"3a1cd8d1879c0662","fromSide":"bottom","toNode":"3273f5906ec73890","toSide":"top"},
+		{"id":"759d666f5fdac9a2","fromNode":"765b8ad6bec1ad35","fromSide":"right","toNode":"eeb3f57bce3a78c3","toSide":"left"},
+		{"id":"5465359328d48925","fromNode":"18a2fbaa1bd5a674","fromSide":"left","toNode":"765b8ad6bec1ad35","toSide":"right"}
 	]
 }
