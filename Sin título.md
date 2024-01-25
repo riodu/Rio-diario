@@ -1,3 +1,3 @@
 
 
-Atrofiado, enteramente y sin guía de cómo rearmarme. Mal dispuesto en mi interior, ahuecado y de fe barata; a la deriva por el camino tropezando con los otros, nervioso con fachada tranquila, sin claros límites y de una sucia tristeza impregnada en los huesos. 
+Atrofiado, enteramente y sin guía de cómo rearmarme. Mal dispuesto en mi interior, ahuecado y de fe barata; a la deriva por el camino tropezando con los otros, nervioso con fachada tranquila, sin claros límites y de una sucia tristeza impregnada en los huesos. Dejo que me digan, a mí, en mi interior, las palabras del otro, si su voz penetra en mi silencio. En lugar de llorar, duermo; los sueños son mis lágrimas. 
