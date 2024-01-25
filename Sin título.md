@@ -1,4 +1,4 @@
 
 
 Atrofiado, enteramente y sin guía de cómo rearmarme. Mal dispuesto en mi interior, ahuecado y de fe barata; a la deriva por el camino tropezando con los otros, nervioso con fachada tranquila, sin claros límites y de una sucia tristeza impregnada en los huesos. Dejo que me digan, a mí, en mi interior, las palabras del otro, si su voz penetra en mi silencio. En lugar de llorar, duermo; los sueños son mis lágrimas. Ahora estoy cansado en esta mi vida en la que lo más que hago es coleccionar insuficiencias, cosas llenas de vacío que se esfuman livianamente con el tiempo. Nada en mí está hecho para perdurar; soy la fragilidad encarnada y todo lo que toco se hace débil, se entrega a la muerte, cual suicida de río. 
-¡Y yo ya tan dispuesto a darme todo! 
+¡Y yo ya tan dispuesto a darme todo! ¡Y se me escapa el amor de entre las manos! De estas manos malsanas tan mías y que sin embargo, son lo único que tengo 
