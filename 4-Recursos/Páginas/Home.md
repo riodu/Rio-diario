@@ -22,6 +22,7 @@
 >
 > > [!sumary|left] [[Home]] 
 >>
+>>
 >>> [!blank-container]
 >>> `ris:Inbox` [[Entradas|Inbox]]
 >>
