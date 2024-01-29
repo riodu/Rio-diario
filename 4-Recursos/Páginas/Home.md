@@ -21,11 +21,16 @@
 > [!multi-column]
 >
 > > [!sumary|left] [[Home]] 
-> </br>
 >>
 >>> [!blank-container]
->>> `ris:Inbox` [[Entradas]]
+>>> `ris:Inbox` [[Entradas|Inbox]]
 >>
+>>> [!blank-container]
+>>> `ris:Check` [[4-Recursos/Páginas/Tareas|Tareas]]
+>>
+>>> [!blank-container]
+>>> `ris:Folder` [[4-Recursos/Páginas/Universidad|Universidad]]
+>> ---
 >>> [!blank-container]
 >>> `ris:Folder2` [[Proyectos]]
 >>
@@ -37,6 +42,9 @@
 >>
 >>> [!blank-container]
 >>> `ris:Archive` [[Archivos]]
+>> ---
+>>> [!blank-container]
+>>> `ris:Database` [[4-Recursos/Páginas/Database|Database]]
 >
 > > [!multi-column|pw6]
 > >
